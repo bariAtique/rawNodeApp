@@ -1,6 +1,6 @@
 /*
- * Title: Sample Handler
- * Description: Sample Handler
+ * Title: handleReqRes.js
+ * Description: handling Request and Response
  * Author: Atiqul Bari
  * Date: 03/23/2026
  *

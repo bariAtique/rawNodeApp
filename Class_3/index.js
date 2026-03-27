@@ -1,6 +1,6 @@
 /*
- * Title: Sample Handler
- * Description: Sample Handler
+ * Title: Index
+ * Description: Entry Point indexing file
  * Author: Atiqul Bari
  * Date: 03/23/2026
  *
